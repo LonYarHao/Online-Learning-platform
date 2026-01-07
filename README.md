@@ -46,6 +46,19 @@ This project was developed as part of my hands-on training and academic learning
 - Profile management (update profile & password)
 
 ---
+---
+
+## Screenshots
+
+### Admin Dashboard
+![Admin](public/screenshot/admin.png)
+
+### Teacher Dashboard
+![Teacher](public/screenshot/teacher.png)
+
+### Student Dashboard
+![Student](public/screenshot/student.png)
+
 
 ## Tech Stack
 
